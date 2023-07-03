@@ -1,4 +1,4 @@
-## David's Assignment Submission Status
+## (본인 이름)'s Assignment Submission Status
 
 <br>
 

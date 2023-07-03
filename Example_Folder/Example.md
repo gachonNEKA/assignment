@@ -12,9 +12,9 @@
 
 | 과제 내용 | 과제 파일 링크 | 비고 |
 | :---: | :---: | :---: |
-| 음성 합성 모델 제작 | [Link]() | 미완성이지만 열심히 함 |
-| 노래 가사를 듣고 제목을 찾는 모델 제작 | [Link]() |  |
-| 가위바위보 AI 제작 | [Link]() |  |
+| 음성 합성 모델 제작 | [Link](https://github.com/gachonNEKA/assignment/blob/main/Example_Folder/test_file.c) | 미완성이지만 열심히 함 |
+| 노래 가사를 듣고 제목을 찾는 모델 제작 | [Link](https://github.com/gachonNEKA/assignment/blob/main/Example_Folder/test_file.py) |  |
+| 가위바위보 AI 제작 | [Link](https://github.com/gachonNEKA/assignment/blob/main/Example_Folder/test_file.c) |  |
 
 <br>
 

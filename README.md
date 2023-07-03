@@ -3,6 +3,8 @@
 
 회원분들은 아래의 작업을 진행해주세요.
 
+<br>
+
 ## 아직 자기 폴더가 없는 경우
 
 1. [이 링크](https://github.com/gachonNEKA/assignment/blob/main/Example_Folder/Example.md)를 들어가서 좌측에 있는 Code를 눌러주세요.
@@ -13,6 +15,8 @@
 6. 'Name Your file...'이라고 적힌 곳에 '(본인 이름) / README.md'를 입력해주세요. (자신의 폴더를 생성하는 절차입니다.)
 7. 아까 복붙한 내용을 'Enter file contents here'이라고 적힌 곳에 붙여넣어 주세요.
 8. 양식에 있는 예시 값들을 지우고 저장하시면 됩니다.
+
+<br>
 
 ## 자기 파일이 있는 경우
 

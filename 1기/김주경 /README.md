@@ -12,12 +12,12 @@
 
 | 과제 내용 | 과제 파일 링크 | 비고 |
 | :---: | :---: | :---: |
-| 코드 돌려 보고 결과물 출력해보기 (1) | [Link](https://github.com/normalKimJk/assignment-1/blob/patch-1/1%EA%B8%B0/%EA%B9%80%EC%A3%BC%EA%B2%BD/%E1%84%89%E1%85%AE%E1%84%82%E1%85%A1%E1%84%85%E1%85%A9%E1%84%8B%E1%85%AE%E1%86%B7%201%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20HOMEWORK(1-1)%20%E1%84%8E%E1%85%AE%E1%86%AF%E1%84%85%E1%85%A7%E1%86%A8%20%E1%84%80%E1%85%A7%E1%86%AF%E1%84%80%E1%85%AA.png) |  |
-| 코드 돌려 보고 결과물 출력해보기 (2) | [Link](https://github.com/normalKimJk/assignment-1/blob/patch-1/1%EA%B8%B0/%EA%B9%80%EC%A3%BC%EA%B2%BD/%E1%84%89%E1%85%AE%E1%84%82%E1%85%A1%E1%84%85%E1%85%A9%E1%84%8B%E1%85%AE%E1%86%B7%201%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20HOMEWORK(1-2)%20%E1%84%8E%E1%85%AE%E1%86%AF%E1%84%85%E1%85%A7%E1%86%A8%20%E1%84%80%E1%85%A7%E1%86%AF%E1%84%80%E1%85%AA.png) |  |
-| 코드를 보고 오류 찾기 (1) | [Link](https://github.com/normalKimJk/assignment-1/blob/patch-1/1%EA%B8%B0/%EA%B9%80%EC%A3%BC%EA%B2%BD/%E1%84%89%E1%85%AE%E1%84%82%E1%85%A1%E1%84%85%E1%85%A9%E1%84%8B%E1%85%AE%E1%86%B7%201%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20HOMEWORK(2-1).py) |  |
-| 코드를 보고 오류 찾기 (2) | [Link](https://github.com/normalKimJk/assignment-1/blob/patch-1/1%EA%B8%B0/%EA%B9%80%EC%A3%BC%EA%B2%BD/%E1%84%89%E1%85%AE%E1%84%82%E1%85%A1%E1%84%85%E1%85%A9%E1%84%8B%E1%85%AE%E1%86%B7%201%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20HOMEWORK(2-2).py) |  |
-| 설명을 보고 코드를 짜기 (1) | [Link](https://github.com/normalKimJk/assignment-1/blob/patch-1/1%EA%B8%B0/%EA%B9%80%EC%A3%BC%EA%B2%BD/%E1%84%89%E1%85%AE%E1%84%82%E1%85%A1%E1%84%85%E1%85%A9%E1%84%8B%E1%85%AE%E1%86%B7%201%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20HOMEWORK(3-1).py) |  |
-| 설명을 보고 코드를 짜기 (2) | [Link](https://github.com/normalKimJk/assignment-1/blob/patch-1/1%EA%B8%B0/%EA%B9%80%EC%A3%BC%EA%B2%BD/%E1%84%89%E1%85%AE%E1%84%82%E1%85%A1%E1%84%85%E1%85%A9%E1%84%8B%E1%85%AE%E1%86%B7%201%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20HOMEWORK(3-2).py) |  |
+| 코드 돌려 보고 결과물 출력해보기 (1) | [Link](https://github.com/normalKimJk/assignment/blob/patch-1/1%EA%B8%B0/%EA%B9%80%EC%A3%BC%EA%B2%BD/NEKA%201%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20HOMEWORK(1-1)%20%E1%84%8E%E1%85%AE%E1%86%AF%E1%84%85%E1%85%A7%E1%86%A8%20%E1%84%80%E1%85%A7%E1%86%AF%E1%84%80%E1%85%AA.png) |  |
+| 코드 돌려 보고 결과물 출력해보기 (2) | [Link](https://github.com/normalKimJk/assignment/blob/patch-1/1%EA%B8%B0/%EA%B9%80%EC%A3%BC%EA%B2%BD/NEKA%201%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%20HOMEWORK(1-2)%20%E1%84%8E%E1%85%AE%E1%86%AF%E1%84%85%E1%85%A7%E1%86%A8%20%E1%84%80%E1%85%A7%E1%86%AF%E1%84%80%E1%85%AA.png) |  |
+| 코드를 보고 오류 찾기 (1) | [Link](https://github.com/normalKimJk/assignment/blob/patch-1/1%EA%B8%B0/%EA%B9%80%EC%A3%BC%EA%B2%BD%20/NEKA%201%EC%A3%BC%EC%B0%A8%20HOMEWORK(2-1).py) |  |
+| 코드를 보고 오류 찾기 (2) | [Link](https://github.com/normalKimJk/assignment/blob/patch-1/1%EA%B8%B0/%EA%B9%80%EC%A3%BC%EA%B2%BD%20/NEKA%201%EC%A3%BC%EC%B0%A8%20HOMEWORK(2-2).py) |  |
+| 설명을 보고 코드를 짜기 (1) | [Link](https://github.com/normalKimJk/assignment/blob/patch-1/1%EA%B8%B0/%EA%B9%80%EC%A3%BC%EA%B2%BD%20/NEKA%201%EC%A3%BC%EC%B0%A8%20HOMEWORK(3-1).py) |  |
+| 설명을 보고 코드를 짜기 (2) | [Link](https://github.com/normalKimJk/assignment/blob/patch-1/1%EA%B8%B0/%EA%B9%80%EC%A3%BC%EA%B2%BD%20/NEKA%201%EC%A3%BC%EC%B0%A8%20HOMEWORK(3-2).py) |  |
 
 <br>
 

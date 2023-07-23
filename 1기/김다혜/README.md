@@ -19,6 +19,7 @@
 <br>
 
 <b> 과제를 하면서 참고한 것들 </b> :
+- https://fhaktj8-18.tistory.com/entry/%ED%8C%90%EB%8B%A4%EC%8A%A4-axis-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98-%EA%B0%9C%EB%85%90-%EC%99%84%EB%B2%BD%EC%A0%95%EB%A6%AC
 - https://pytorch.org/docs/stable/generated/torch.rot90.html
 - https://pytorch.org/docs/stable/generated/torch.flip.html
 - https://jimmy-ai.tistory.com/320

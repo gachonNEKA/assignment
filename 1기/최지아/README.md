@@ -20,7 +20,7 @@
 <br>
 
 <b> 과제를 하면서 참고한 것들 </b> :
-
+- https://pytorch.org/docs/stable/index.html 
 - 
 <br>
 

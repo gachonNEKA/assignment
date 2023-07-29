@@ -1,0 +1,32 @@
+import torch
+
+def calculator(a, b, operation):
+    if operation == 'add':
+        result = a + b
+    elif operation == 'subtract':
+        result = a - b
+    elif operation == 'multiply':
+        result = a * b
+    else:
+        raise ValueError("Invalid operation. Please use 'add', 'subtract', or 'multiply'.")
+
+    return result
+
+#테스트용 두 개의 행렬 생성
+a = torch.tensor([[1, 2], [3, 4]])
+b = torch.tensor([[5, 6], [7, 8]])
+
+#덧셈
+add_result = calculator(a, b, 'add')
+print("Addition:")
+print(add_result)
+
+#뺄셈
+subtract_result = calculator(a, b, 'subtract')
+print("Subtraction:")
+print(subtract_result)
+
+#곱셈
+multiply_result = calculator(a, b, 'multiply')
+print("Multiplication:")
+print(multiply_result)

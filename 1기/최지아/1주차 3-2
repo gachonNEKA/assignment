@@ -1,0 +1,31 @@
+import torch
+
+#정사각행렬 생성
+square_matrix = torch.tensor([[9, 13, 5, 2], [1, 11, 7, 6], [3, 7, 4, 1], [6, 0, 7, 10]])
+print("Square Matrix:")
+print(square_matrix)
+
+#90도 회전
+rotated_90 = torch.transpose(square_matrix, 0, 1)[::-1]
+print("Rotated 90 degrees:")
+print(rotated_90)
+
+#180도 회전
+rotated_180 = square_matrix[::-1, ::-1]
+print("Rotated 180 degrees:")
+print(rotated_180)
+
+#270도 회전
+rotated_270 = torch.transpose(square_matrix, 0, 1)[:, ::-1]
+print("Rotated 270 degrees:")
+print(rotated_270)
+
+#좌우로 뒤집기
+flipped_lr = torch.flip(square_matrix, [1])
+print("Flipped left-right:")
+print(flipped_lr)
+
+#상하로 뒤집기
+flipped_ud = torch.flip(square_matrix, [0])
+print("Flipped up-down:")
+print(flipped_ud)

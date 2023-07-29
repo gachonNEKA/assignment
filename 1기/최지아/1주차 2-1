@@ -1,0 +1,14 @@
+import numpy as np
+import pandas as pd
+
+data = {
+    'Name' : ['철수','영희','진희','정혁'],
+    'Age' : [17, 23, 42, 29],
+    'City' : ['서울', '부산', '인천', '광주'],
+    'Salary': [5000, 650, 2400, 3500]
+    }
+
+df = pd.DataFrame(data)
+
+
+print(df)
